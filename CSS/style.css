@@ -6,12 +6,20 @@
 
 .column-2 {
   width: 200px;
-  float: right;
+  float: left;
   background-color: crimson;
 }
 
 .column-3 {
   width: 200px;
-  float: none;
   background-color: yellow;
+  float: left;
+}
+
+p {
+  margin: 10px
+}
+
+h4 {
+  margin: 10px
 }
